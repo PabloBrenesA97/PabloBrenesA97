@@ -31,9 +31,9 @@
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/pablo1997/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/pablobrenesa/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adityavs__-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:josepablobrenesalfaro@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
+<a href="https://www.linkedin.com/in/pablo1997/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Pablo%20Brenes%20Alfaro-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.instagram.com/pablobrenesa/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-Pablo%20Brenes%20Alfaro-blue?style=flat-square&logo=instagram"></a>
+<a href="mailto:josepablobrenesalfaro@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email--Pablo%20Brenes%20Alfaro-blue?style=flat-square&logo=gmail"></a>
 </p>
 
 ⭐️ From [AVS1508](https://github.com/PabloBrenesA97)
