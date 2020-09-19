@@ -1,9 +1,6 @@
 # Hi! I'm José Pablo Brenes Alfaro&nbsp;
-
-<img src="https://images.squarespace-cdn.com/content/v1/5c9ef2f2e8ba44f99ae7edcf/1556552864323-JS95SBH7Q97MEY45NUM8/ke17ZwdGBToddI8pDm48kFQQgP34qnCpeHaeAOzTt7pZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PIvwpK0aFuhG0GtLLHqvbV4raqY38tdDiF-KTEvoUH9G4/AskBot_gif.gif" style="width: 100px;height: 100px;">
-
 <p>
-    I am a Computer Software Engineer and love learn and work with Machine Learning, Deep Learning <br><br>
+    I am a software engineer and I love learning about technologies like Machine Learning, Deep Learning and Data Science 🔥<br><br>
     <p>
     Junior Data Scientist  
     <img align="left" alt="img1" width="24px" src="https://image.flaticon.com/icons/png/512/2103/2103626.png" /> 
@@ -13,6 +10,9 @@
     <img align="left" alt="img2" width="24px" src="https://img.icons8.com/cotton/2x/source-code--v3.png" />
     </p>
 </p>
+<img src="https://images.squarespace-cdn.com/content/v1/5c9ef2f2e8ba44f99ae7edcf/1556552864323-JS95SBH7Q97MEY45NUM8/ke17ZwdGBToddI8pDm48kFQQgP34qnCpeHaeAOzTt7pZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PIvwpK0aFuhG0GtLLHqvbV4raqY38tdDiF-KTEvoUH9G4/AskBot_gif.gif" style="width: 100px;height: 100px;">
+
+
 <br>
 <br>
 
