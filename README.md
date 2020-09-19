@@ -4,8 +4,11 @@
 
 <p>
     I am a Computer Software Engineer and love learn and work with Machine Learning, Deep Learning <br><br>
+    <p>
     Junior Data Scientist  
-    <img align="left" alt="img1" width="24px" src="https://image.flaticon.com/icons/png/512/2103/2103626.png" /> | Full Stack Developer <img align="left" alt="img2" width="24px" src="https://img.icons8.com/cotton/2x/source-code--v3.png" />
+    <img align="left" alt="img1" width="24px" src="https://image.flaticon.com/icons/png/512/2103/2103626.png" /> 
+    </p>
+    </p> Full Stack Developer <img align="left" alt="img2" width="24px" src="https://img.icons8.com/cotton/2x/source-code--v3.png" /></p>
 </p>
 <br>
 <br>
