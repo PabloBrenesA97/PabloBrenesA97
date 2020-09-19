@@ -36,4 +36,4 @@
 <a href="mailto:josepablobrenesalfaro@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Pablo%20Brenes%20Alfaro-blue?style=flat-square&logo=gmail"></a>
 </p>
 
-⭐️ From [AVS1508](https://github.com/PabloBrenesA97)
+⭐️ From [PabloBrenesA97](https://github.com/PabloBrenesA97)
